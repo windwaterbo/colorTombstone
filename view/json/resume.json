@@ -1,0 +1,141 @@
+{
+    "about": {
+        "Ename": "Macy Kung",
+        "job": "Full-Stack Web Developer",
+        "me1": "畢業於醫療資訊學系的科系，畢業後我選擇醫療影像研發團隊為我第一份工作，開發醫療資訊相關產品（詳見專案經驗），我待的團隊是公司裡面平均年齡最年輕的，總共四個人，平均29歲，專案開發管理平台使用redmine並結合svn版本控制，而我走fullstack, 但負責後端開發較多(nodejs)，但也玩前端的東西(angularjs,reactjs,html5)。",
+        "me2": "團隊開發方式是採piar programing的方式， 通常是一個前端設計搭配一個後端設計師、 兩個前端配一個後端，或是兩個後端設計師一起， 彼此互相討論、 配合與code review， 通常我遊走在前端與後端之間。在團隊當中， 我負責建構與優化後端程式架構， 以及規劃系統細部設計與撰寫SD文件， 讓成員依此後端程式架構開發功能並能容易掌握關鍵技巧，即使有沒寫過nodejs的新人進來也能讓新人快速掌握關鍵技能。而我寫後端程式也很喜歡寫前端程式， 有時依團隊需求而轉戰前端開發， 前端的元件有時候會經過我做單元測試再轉手給前端的設計師。 除了開發功能之外， 也會寫前後端的測試程式。",
+        "me3": "平時工作以外時間會參加許多社群分享活動(SQLPASS、 front - end等JS相關)、 大型Confrenece(JSDC、 Modern Web Conf)， 吸收新知與專家的經驗，在家會寫Open Source、經營個人部落格(梅西的小腦袋)、玩raspberry pi、看國外網站程式blog和不時看github、 problem and principle issue、 並且不定時參與討論， 職業生涯規劃朝Growth Hacker與系統架構師發展。"
+    },
+    "contact": {
+        "name": "龔筠庭",
+        "gender": "女",
+        "birth": "18 Aug 1989",
+        "hometown": "南投,台灣",
+        "address": "南投市信義街1號4F之1",
+        "mobile": "0981083847",
+        "email": "windwaterbo@gmail.com",
+        "github": "https://github.com/windwaterbo",
+        "twitter": "https://twitter.com/windwaterbo",
+        "blog": "http://windwaterbo-blog.logdown.com/"
+    },
+    "intrests": [{
+        "item": "籃球",
+        "desc": "從小就喜歡運動，大學還參加了籃球校隊，有一年比賽最好的成績是大專盃籃球賽一般組全國第九名，學生的時光不是唸書就是練球，籃球也讓我結交了許多朋友，也學會了很多事。1.學會保護好球，聽似很簡單，但這是很難的一門學問，如同人生處境一樣。\n2.學會觀察情勢。\n3.學會要把事情做到更好、做到細膩。\n4.學會和不同隊友相處配合。\n5.學會堅持。\n6.學會我好想要達到某個目標，就會去要。\n7.學會不管逆境還是順境，都要做好分內工作。\n8.學會平手即是從零開始，不管前面打得如何。\n9.學會不管什麼節日，沒什麼不一樣，一樣練球一樣工作，所以要更珍惜每一天。\n10.學會把事情做對而不是做快。\n11.學會技能從不會到會到熟練再到已成習慣。\n12.學會當精神領秀。\n13.學會減肥:P"
+    }, {
+        "item": "旅遊",
+        "desc": "旅遊能放鬆心情，探索各地文化風土民情與美食，最愛台灣的花蓮，好山好水好無聊好棒！"
+    }, {
+        "item": "美食",
+        "desc": "吃吃吃吃吃吃～吃美食！喜歡到處去吃美食，開發美食地圖。"
+    }, {
+        "item": "學習",
+        "desc": "喜歡學習新東西、學習專家經年累月的知識，了解大家都怎麼做的，除了學習程式，只要是自身興趣，都會想辦法把興趣做更好。"
+    }, {
+        "item": "程式",
+        "desc": "喜歡玩程式，用舒適的心情寫程式，喜歡和朋友在上班以外的時間練習寫小專案。喜歡JavaScript。"
+    }, {
+        "item": "設計",
+        "desc": "小時候的志願是當建築師，但是沒能如願考上第一志願的成大建築，所以現在是一枚小小工程師，但是還是不減心裡燃燒得查克拉，所以平時會看一些有設計理念的書，瞭解別人的理念是什麼？是用什麼方法去實現他的理念？"
+    }],
+    "profSkill": [{
+        "item": "NodeJs",
+        "grade": "90"
+    }, {
+        "item": "HTML5",
+        "grade": "80"
+    }, {
+        "item": "jQuery",
+        "grade": "80"
+    }, {
+        "item": "AngularJs",
+        "grade": "80"
+    }, {
+        "item": "NOSQL",
+        "grade": "70"
+    }, {
+        "item": "MSSQL",
+        "grade": "70"
+    }, {
+        "item": "PLSQL",
+        "grade": "60"
+    }, {
+        "item": "CSS",
+        "grade": "60"
+    }, {
+        "item": "ReactJs",
+        "grade": "20"
+    }],
+    "persSkill": [{
+        "item": "創造力",
+        "grade": 90
+    }, {
+        "item": "學習力",
+        "grade": "90"
+    }, {
+        "item": "社交力",
+        "grade": "80"
+    }, {
+        "item": "領導力",
+        "grade": "70"
+    }],
+    "education": [{
+        "date": "Setember 2011 - February 2014",
+        "degree": "碩士",
+        "school": "慈濟大學醫學資訊研究所",
+        "desc": "本人進入的實驗室為依醫學資訊標準建構醫療資訊系統的研究實驗室，基於醫學資訊標準之下，以軟體工程的角度去設計出一套符合現有醫療資訊系統互通上遇到的問題。此研究方法牽涉到許多軟體開發的基礎以及醫學資訊的Domain Knowledge，在了解醫院的需求以及所碰到的問題，結合這兩種技能，設計出最佳流程化並能延長醫院系統之軟體維護週期，達到軟體開發上的最大效益。"
+    }, {
+        "date": "Setember 2007 - June 2011",
+        "degree": "學士",
+        "school": "慈濟大學醫學資訊學系-資訊技術組",
+        "desc": "本學系以資訊科技為基礎，健康照護為應用。和醫管不一樣的地方是本系的資訊技術組讓學生修資工的課程，配合醫學資訊相關內容，讓學生能有資訊技術專長，並應用在醫療領域上。"
+    }],
+    "workExp": [{
+        "date": "July 2011 - August 2011",
+        "group": "醫療影像研發部",
+        "job": "實習生 ",
+        "locate": "＠美得康科技,台北矽谷",
+        "desc": "建構醫療影像訊息交換平台的其中一個資訊交換機制，其中必須閱讀大量醫學資訊交換機制的Profile，再把抽象的觀念實作出來。"
+    }, {
+        "date": "March 2014 - CURRENT",
+        "group": "醫療影像研發部",
+        "job": "高級程式分析師 ",
+        "locate": "＠美得康科技,內湖科學園區",
+        "desc": "開發有關醫療影像相關平台(詳見PORTFOLIO)，工作上扮演的角色是負責後端的資料流程控制、資料儲存與REST API模組、系統分析、撰寫SD文件、程式架構建構，以及前端開發與前端元件單元測試。若有團隊新人進來，則要訓練團隊的新人掌握開發關鍵技巧。"
+    }],
+    "portfolio": [{
+        "date": "July 27 2015 - CURRENT",
+        "project": "Radiology Audit System of Web with Maintain module - 放射線部報告審計系統之抽審系統設定",
+        "desc": "放射線部報告審計系統提供「Web-based 放射線部報告抽籤審查病人正式報告」、「Web-based 放射線部報告抽籤審查統計查詢介面」、「Web-based 放射線部報告抽籤審查維護設定介面」，讓放射線部的主治醫師可以審查並建議放射線部醫師的病人正式報告，可以提高醫師的報告品質，同時也可提高醫院評鑑分數",
+        "cont": "Radiology Audit of System是網頁版放射線部報告抽查審計系統，是一個全新的系統，我們team負責其中一塊：「Web-based 放射線部報告抽籤審查維護設定介面」，提供使用者設定抽報告的比例、頻率、報告種類。一個技術經理加上我和另一位同事，總共三人，技術經理負責系統分析訪談，一個同事負責處理DBA、系統分析與後端模組，我則負責系統前端開發(angularjs)與後端(node.js,express.js,asyncjs,orcle,mssql)的資料流程控制、資料儲存與介接的REST API模組，以及系統細部分析以及撰寫SD文件。此專案支援IE8瀏覽器。"
+    }, {
+        "date": "June 29 2015 - CURRENT",
+        "project": "Prospective Payment System of Web with Editor and Search of Teach List - 醫囑審核資訊系統之教學檔編輯與教學檔查詢",
+        "desc": "醫囑審核資訊系統提供「Web-based 醫囑審核編輯與查詢」、「Web-based 醫囑教學檔編輯與查詢」，讓放射線部的主治醫師可以審查並建議放射線部醫師的病人醫囑內容，可以提高醫師的醫囑內容品質，同時也可提高醫院評鑑分數",
+        "cont": "Prospective Payment System of Web是網頁版醫囑審核系統，，是從一個十幾年前由vb6寫的單機版系統轉換成網頁應用程式系統，我們team負責其中一塊：「Web-based 醫囑教學檔編輯與查詢」，提供使用者設定哪個醫囑要成為教學檔、分享到哪個部門、教學檔查詢。一個技術經理加上我和另一位同事，總共三人，技術經理負責系統分析訪談，我和一個同事負責系統分析與後端模組及前端開發，我負責系統前端開發(angularjs)與後端(node.js,express.js,asyncjs,mssql)的資料流程控制、資料儲存與介接的REST API模組，以及系統細部分析以及撰寫SD文件。此專案支援IE8瀏覽器。"
+    }, {
+        "date": "April 01 2015 - CURRENT",
+        "project": "Radiology Information System of Web - 放射線部報告系統",
+        "desc": "WebRIS提供「Web-based 放射線部報告查詢介面」、「Web-based 放射線部報告編輯界面」，打破舊系統單機版的傳統打報告的方式，讓醫生不局限於醫院的哪一台電腦，只要在有網路的地方即可打報告。",
+        "cont": "Radiology Information System of Web是網頁版放射線部報告系統，是從一個十幾年前由vb6寫的單機版系統轉換成網頁應用程式系統，而現在用nodejs+angularjs翻轉而成的線上系統。 一個技術經理加上我以及其他兩位同事，總共四個人，技術經理負責管理專案以及系統分析訪談，一個同事負責處理DBA以及撰寫後端模組，另一個同事則負責前端網頁的切版、設計與功能，我則負責後端(node.js,express.js,asyncjs,orcle,mssql)的資料流程控制、資料儲存與REST API模組，以及系統細部分析以及撰寫SD文件，讓前端與後端配合人員好介接與開發;我也負責前端(angularjs,jquery,html5)元件的單元測試與技術支援，並且支援IE8瀏覽器，歷時三個月開發出報告編輯主流程beta版。此專案讓我對Application翻成 Web Application有所體悟，詳見梅西的小腦袋-The process about AP transfer to WEB(http://windwaterbo-blog.logdown.com/posts/261023-the-process-about-ap-transfer-to-web)"
+    }, {
+        "date": "December 2014 - CURRENT",
+        "project": "nestedjson2csv - 巢狀json檔轉成csv檔 (Open Source with node.js)",
+        "desc": "提供使用者能將它編輯好的json檔轉成csv檔，並且能用Excel開啟。裡面提供內容標題的設定、內容可依內容的空格排版，是一個好用的小工具。在npm平台上，平均一個月有四十多個下載量。https://github.com/windwaterbo/nestedjson2csv",
+        "cont": "有一天因為專案內容需要將log檔變成excel檔，而我設計的log檔存在mongodb裡面，且被我設計成一個巢狀的json格式，但是當時npm上的模組都不支援巢狀json轉成csv，而且當時有一個模組很多人用，那個作者卻不維護他的模組了，於是自己改良了一個版本讓大家使用。"
+    }, {
+        "date": "March 10 2014 - CURRENT",
+        "project": "SmartNimble - 醫學影像行動瀏覽平台",
+        "desc": "SmartNimble提供一個簡單且功能強大的「 Web-based DICOM伺服器」、「 Web-based查詢介面」，提供「行動化醫學影像瀏覽」 ，打破醫院傳統PACS系統影像瀏覽模式。不受限綁定電腦、硬體鎖等授權限制即可輕鬆地使用手機、平板以及一般PC瀏覽醫學影像HTML5零足跡(Zero-footprint) 瀏覽技術- 不須額外安裝附加元件，作為「跨醫療部門」與「跨院交換」情境使用。",
+        "cont": "一個技術經理加上我以及其他兩位同事，總共四個人，技術經理負責管理專案以及指導領域知識，一個同事負責寫處理影像的native module(C library)以及後端程式開發，另一個同事則負責前端網頁的切版、設計與功能，我則負責後端(node.js,express.js,asyncjs,ffi.js,mongodb)的資料流程控制、資料儲存與REST API模組，以及系統分析、撰寫SD文件以搭配前端人員介接與開發的方便性;以及前端(angularjs,jquery)元件的單元測試與技術支援。歷時三個月開發出beta版，beta版完成之後，還有繼續擴充功能與產品優化，並於一些醫院上線使用。支援IE10+ 、Chrome、FireFox、Safari瀏覽器。"
+    }, {
+        "date": "Setember 23 2013 - Setember 27 2013",
+        "project": "IHE Connectathon at Beijing",
+        "desc": "Integrating the Healthcare Enterprise(IHE) Connectathon在北京舉辦醫療資訊系統聯合測試，舉辦的目的是為了促進中國的醫療資訊系統標準的發展與完善。",
+        "cont": "因為研究所期間實驗室老師有和業界產學合作，在參與聯測之前有幫忙做一些prototype，是有關於病人初次看診、掛號、註冊的醫療系統之間的訊息服務;期間也提供公司一些服務的解決方案。北京聯測的時候幫忙當測試，要與會場的其他廠商做訊息的聯合測試，只要系統是符合資訊標準才能通過，讓廠商的系統能夠通過大會測試的標準。"
+    }, {
+        "date": "July 01 2011 - August 31 2011",
+        "project": "業界實習",
+        "desc": "剛上研究所的暑假，因緣際會到第一份工作的地方實習，做的是醫療影像訊息交換平台的其中一個角色。",
+        "cont": "我和實驗室同學在實習期間，需要大量閱讀醫學資訊標準profile，再依此抽象的概念，建構出一個prototype，實習結束的時候交給正職人員有個prototype可以參考，並依此prototype的架構延續建構出成品。"
+    }]
+}
