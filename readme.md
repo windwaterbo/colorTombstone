@@ -1,6 +1,6 @@
 # colorTombstone
 
-The colorTombstone is my resume of web. It's base on `node.js`,`angular.js`,`html5`. You can get my **resume.pdf** there.
+The colorTombstone is my resume of web. It's base on `node.js`,`angular.js`,`html5`. You can get my **resume.pdf** there and send me a message. 
 
 ## DEMO on Raspberry Pi 2. COMING SOON.
 
